@@ -30,9 +30,9 @@ npm install
 npm start
 ```
 
-## 📸 Screenshots
+## 📸 **Screenshots**
 
-> Add screenshots here to showcase the UI
+![Notezy Screenshot](notezy.png)
 
 
 💡 **Contributions are welcome!** Feel free to submit issues and pull requests.  
