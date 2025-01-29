@@ -1,7 +1,5 @@
 # 📝 Notezy
 
-**Notezy** is a lightweight and modern Notepad clone built with **Electron.js**.  
-It offers a sleek UI, fast performance, and essential text editing features.  
 ![Notezy Screenshot](notezy.png)
 
 ## 🚀 Features
