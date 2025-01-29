@@ -17,7 +17,7 @@ It offers a sleek UI, fast performance, and essential text editing features.
 ### Clone the Repository  
 ```sh
 git clone https://github.com/KrishBharadwaj394/Notezy.git
-cd notezy
+cd Notezy
 ```
 
 ### Install Dependencies  
@@ -28,11 +28,6 @@ npm install
 ### Run the App  
 ```sh
 npm start
-```
-
-### Build for Production  
-```sh
-npm run build
 ```
 
 ## 📸 Screenshots
