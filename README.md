@@ -5,7 +5,7 @@
 ## 🚀 Features
 
 - ✨ Simple and intuitive UI  
-- 🎨 Light & Dark mode support  
+- 🎨 Undo/Redo functionality 
 - 💾 Autosave functionality  
 - 📝 Markdown preview support  
 - 🔍 Find and replace text  
