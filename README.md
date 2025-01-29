@@ -5,11 +5,10 @@
 ## 🚀 Features
 
 - ✨ Simple and intuitive UI  
-- 🎨 Undo/Redo functionality 
-- 💾 Autosave functionality  
-- 📝 Markdown preview support  
-- 🔍 Find and replace text  
-- 📂 Open and save text files  
+- 🔄 Undo & Redo 
+- ✂️ Cut, Copy & Paste
+- 🔍 Zoom In & Out 
+- 📂 Open & Save Files
 
 ## 🛠️ Installation
 
