@@ -16,7 +16,7 @@ It offers a sleek UI, fast performance, and essential text editing features.
 
 ### Clone the Repository  
 ```sh
-git clone https://github.com/your-username/notezy.git
+git clone https://github.com/KrishBharadwaj394/Notezy.git
 cd notezy
 ```
 
@@ -39,11 +39,6 @@ npm run build
 
 > Add screenshots here to showcase the UI
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-
----
 
 💡 **Contributions are welcome!** Feel free to submit issues and pull requests.  
 ⭐ If you like this project, give it a star on GitHub!  
