@@ -2,6 +2,7 @@
 
 **Notezy** is a lightweight and modern Notepad clone built with **Electron.js**.  
 It offers a sleek UI, fast performance, and essential text editing features.  
+![Notezy Screenshot](notezy.png)
 
 ## 🚀 Features
 
@@ -29,11 +30,6 @@ npm install
 ```sh
 npm start
 ```
-
-## 📸 **Screenshots**
-
-![Notezy Screenshot](notezy.png)
-
 
 💡 **Contributions are welcome!** Feel free to submit issues and pull requests.  
 ⭐ If you like this project, give it a star on GitHub!  
